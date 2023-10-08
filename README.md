@@ -1,7 +1,7 @@
  
 <p align="center">  
   <a href="https://github.com/Guru322">
-    <img alt="Guru" height="300" src="https://github.com/syntax-king/Syntax-king/assets/80260036/9ca09e69-8f99-4e12-9851-31578ec118f0">!
+    <img alt="Guru" height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/80260036/273454399-e8ee3a6f-a38f-463a-954f-e06bc9e03162.jpeg">!
 
     <h1 align="center">Hy 👋 Guru Here</h1>
   </a>
