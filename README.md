@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Syntax-King</h1>
 <h3 align="center">A passionate developer from Maharashtra</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/AvHBBZp7C4kQKY9q8">
+<img align="right" alt="coding" width="400" src="https://telegra.ph/Hi-10-08-152">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntax-king&label=Profile%20views&color=0e75b6&style=flat" alt="syntax-king" /> </p>
 
