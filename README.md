@@ -3,7 +3,7 @@
   <a href="https://github.com/Guru322">
     <img alt="Guru" height="300" src="https://github.com/syntax-king/Syntax-king/assets/80260036/9ca09e69-8f99-4e12-9851-31578ec118f0">!
 
-    <h1 align="center">Hy 👋 Syntax-king Here</h1>
+    Hey 👋 Syntax-king Here
   </a>
 </p>
 <p align="center">
