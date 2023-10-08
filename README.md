@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Syntax-King</h1>
 <h3 align="center">A passionate developer from Maharashtra</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9e5e7795957f65ab8a2f305aaaffc4ccbbdbae2e78c66d0fe37b51c8fa6ce774/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntax-king&label=Profile%20views&color=0e75b6&style=flat" alt="syntax-king" /> </p>
 
