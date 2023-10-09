@@ -1,7 +1,7 @@
  
 <p align="center">  
   <a href="https://github.com/Guru322">
-    <img alt="syntax-king" height="300" src="https://github.com/syntax-king/Syntax-king/assets/80260036/9ca09e69-8f99-4e12-9851-31578ec118f0">!
+    <img alt="syntax-king" height="300" src="https://github.com/syntax-king/Syntax-king/assets/80260036/9ca09e69-8f99-4e12-9851-31578ec118f0">
 
 <h1 align="center">Hi 👋, I'm Syntax-King</h1>
 <h3 align="center">A passionate developer from Maharashtra</h3>
