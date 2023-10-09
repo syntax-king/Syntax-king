@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntax-king&label=Profile%20views&color=0e75b6&style=flat" alt="syntax-king" /> </p>
 
-- 🌱 I’m currently learning **Coding**
+- 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **On tg https://T.me/Thesyntaxking**
 
